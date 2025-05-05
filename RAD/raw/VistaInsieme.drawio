@@ -27,8 +27,8 @@
         <mxCell id="gYo0cPuWThSeLoVCJnns-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Errore di comunicazione con il DBMS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FDF89C);strokeColor=light-dark(#000000,#000000);" parent="1eNqCUqUD9JuJW1qk43Z-1" vertex="1">
           <mxGeometry x="5" y="633" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gYo0cPuWThSeLoVCJnns-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 14px;&quot;&gt;&lt;b&gt;SIstema&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1eNqCUqUD9JuJW1qk43Z-1" vertex="1">
-          <mxGeometry x="120" width="80" height="30" as="geometry" />
+        <mxCell id="gYo0cPuWThSeLoVCJnns-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 14px;&quot;&gt;&lt;b&gt;Si&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;stema&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1eNqCUqUD9JuJW1qk43Z-1" vertex="1">
+          <mxGeometry x="124" y="1" width="72" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gYo0cPuWThSeLoVCJnns-7" value="" style="endArrow=open;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=light-dark(#000000,#000000);endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1eNqCUqUD9JuJW1qk43Z-1" target="1eNqCUqUD9JuJW1qk43Z-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
